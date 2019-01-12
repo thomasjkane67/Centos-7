@@ -1,2 +1,6 @@
-# Centos-7
-Centos 7 Commands
+### Centos 7 Cheatsheet
+
+| *:command:* | *:Description:* |
+|||
+|||
+|||
